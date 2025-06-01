@@ -164,8 +164,6 @@ void mostrar_menu() {
                 float minim = calcular_precio_minimo_gasolina_95E5();
                 printf("\nPrecio mínimo de gasolina 95 E5: %.3f €\n", minim);
                 break;
-                printf("Función no implementada.\n");
-                break;
             }
             case 5:
                 printf("Función no implementada.\n");
